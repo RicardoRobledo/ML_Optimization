@@ -40,7 +40,7 @@ Optimization is the engine behind model training: it helps us find the best para
 
 - `scikit-learn`
 - `xgboost`
-- `matplotlib` & `seaborn` for visualization
+- `matplotlib` for visualization
 - `numpy` & `scipy`
 
 ---
